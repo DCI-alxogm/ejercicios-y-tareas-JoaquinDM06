@@ -1,5 +1,4 @@
 /*
-HI
 Esto es un comentario 
 que debe de tener varias
 lineas de escritura.
