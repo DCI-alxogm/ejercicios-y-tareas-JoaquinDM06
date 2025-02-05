@@ -1,0 +1,9 @@
+/*
+Lo primero es crear o modificar un archivo o una carpeta en el directorio local
+despues reviso el status para ver que se hayan guardado los camibios de manera local
+ahora utilizo el git add para agregar los cambios al repositorio digital
+el comando git commit sirve para agregar un comentario de lo que vamos a subir
+por ultimo hacemos el git push para subir por completo nuestros archivos
+para ello nos pide nuestro usuario y una clave que creamos
+y ya con esto queda actualizado nuestro repositorio
+*/
