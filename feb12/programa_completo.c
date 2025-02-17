@@ -24,6 +24,6 @@ int main( ){
 	
 	printf("Tu edad es: %i\n", edad);
 	printf("La temperatura hoy en la mañana fué: %f\n", temperatura);
-	printf("Pues bien %s de %i años y que amanecio con una temperatura de %f grados.\n Fue un gusto 				conversar contigo.\n", nombre, edad, temperatura); 
+	printf("Pues bien %s de %i años y que amanecio con una temperatura de %f grados.\n Fue un gusto	conversar contigo.\n", nombre, edad, temperatura); 
 	exit(0);
 }
