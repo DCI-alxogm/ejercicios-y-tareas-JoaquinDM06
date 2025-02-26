@@ -17,6 +17,6 @@ vocalmayuscula = (c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
 	}else{
 		printf("%c es una consonante\n", c);
 	}
-return(0)
+return(0);
 
 }
