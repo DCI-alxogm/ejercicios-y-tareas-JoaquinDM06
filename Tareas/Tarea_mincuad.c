@@ -54,17 +54,6 @@ int main() {
         printf("\nNo se puede calcular la recta de mínimos cuadrados (división por cero).\n");
     }
 
-    // Gráfica simple de velocidad (histograma de texto)
-    printf("\nGráfica de velocidad (1 '*' = 1 m/s):\n");
-    for (int i = 0; i < N; i++) {
-        printf("V[%2d] | ", i+1);
-        int barras = (int)velocidad[i];
-        if (velocidad[i] > 0 && barras == 0) barras = 1; // Para que se vea aunque sea muy pequeño
-        for (int j = 0; j < barras; j++) {
-            printf("*");
-        }
-        printf(" (%.2f m/s)\n", velocidad[i]);
-    }
 
     return 0;
 }
